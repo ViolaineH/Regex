@@ -19,5 +19,5 @@ Trouve l'expression régulière qui décrit les mots ayant au moins 14 caractèr
 
  Trouve l'expression régulière qui correspond à l'url de la fiche du fils sur IMDB https://www.imdb.com/title/tt0133093 (attention à ne pas sélectionner les parenthèses):
 
-
 /https?:\/\/[a-z]+\.[a-z]+\.[a-z]+\/[a-z]+\/\w+/g
+
